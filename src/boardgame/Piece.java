@@ -15,6 +15,6 @@ public class Piece {
 		return board;
 	}
 
-	
+
 
 }
